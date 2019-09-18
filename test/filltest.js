@@ -1,5 +1,5 @@
 const assert = require('assert')
-const _ = require('../fillLodash')
+const _ = require('../src/fillLodash')
 
 describe('fillLodash', function() {
   describe('fill', function() {
